@@ -1,4 +1,12 @@
-# Databases & SQL
+# SQL-Practice
+Solve SQL query questions using a practice database on https://www.sql-practice.com/
+
+The hospital database has 4 tables (patients, admissions, doctors, province_names)
+
+<img src="/hospital.db schema.png" width="500"/>
+
+
+# Databases & SQL Information
 
 ## Database
 A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS).
@@ -58,12 +66,3 @@ Examples of DML commands:
 - UPDATE
 - DELETE
 - MERGE
-
-
-
-# SQL-Practice
-Solve SQL query questions using a practice database on https://www.sql-practice.com/
-
-Hospital Database has 4 tables (patients, admissions, doctors, province_names)
-
-<img src="/hospital.db schema.png" width="500"/>
